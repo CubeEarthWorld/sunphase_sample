@@ -1,16 +1,27 @@
-# sunphase_sample
+# Sunphase Sample Project
 
-A sunphase sample
+This is a sample project for the natural language date parser [Sunphase](https://github.com/CubeEarthWorld/sunphase/).
 
-## Getting Started
+To run this project, execute `flutter run` from the terminal.
 
-This project is a starting point for a Flutter application.
+This project is licensed under CC0.
 
-A few resources to get you started if this is your first Flutter project:
+## 日本語
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Sunphase サンプルプロジェクト
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+これは、自然言語日付パーサー[Sunphase](https://github.com/CubeEarthWorld/sunphase/)のサンプルプロジェクトです。
+
+このプロジェクトを実行するには、ターミナルから`flutter run`を実行してください。
+
+このプロジェクトはCC0ライセンスで提供されています。
+
+## 中文
+
+# Sunphase 示例项目
+
+这是一个自然语言日期解析器 [Sunphase](https://github.com/CubeEarthWorld/sunphase/) 的示例项目。
+
+要运行此项目，请从终端执行 `flutter run`。
+
+本项目以 CC0 许可发布。
