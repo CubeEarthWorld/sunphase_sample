@@ -4,8 +4,6 @@ This is a sample project for the natural language date parser [Sunphase](https:/
 
 To run this project, execute `flutter run` from the terminal.
 
-This project is licensed under CC0.
-
 ## 日本語
 
 # Sunphase サンプルプロジェクト
@@ -14,8 +12,6 @@ This project is licensed under CC0.
 
 このプロジェクトを実行するには、ターミナルから`flutter run`を実行してください。
 
-このプロジェクトはCC0ライセンスで提供されています。
-
 ## 中文
 
 # Sunphase 示例项目
@@ -23,5 +19,3 @@ This project is licensed under CC0.
 这是一个自然语言日期解析器 [Sunphase](https://github.com/CubeEarthWorld/sunphase/) 的示例项目。
 
 要运行此项目，请从终端执行 `flutter run`。
-
-本项目以 CC0 许可发布。
