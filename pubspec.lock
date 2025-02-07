@@ -157,7 +157,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "06b3ebbc21bda3ea8625089f48a9b5ba8d1983bf"
+      resolved-ref: "0be6e5043a8ba1540fbef9ecd79b424202013f82"
       url: "https://github.com/CubeEarthWorld/sunphase.git"
     source: git
     version: "0.0.1"
