@@ -1,4 +1,6 @@
+// lib/home_screen.dart
 import 'package:flutter/material.dart';
+import 'package:sunphase/core/result.dart';
 import 'package:sunphase/sunphase.dart'; // sunphase package import
 
 /// HomeScreen is the main UI screen demonstrating sunphase package functionality.
@@ -190,7 +192,8 @@ class _HomeScreenState extends State<HomeScreen> {
                 final result = _results[index];
                 return ListTile(
                   title: Text('Matched: ${result.text}'),
-                  subtitle: Text('Date: ${result.component.date.toLocal().toString().split('.')[0]}'),
+                  // 修正: result.component は存在しないため result.start を使用
+                  subtitle: Text('Date: ${result.start.toDateTime(_currentTime).toLocal().toString().split('.')[0]}'),
                 );
               },
             ),
